@@ -23,4 +23,4 @@ The goal of this code is to read data from a .csv file and use for loops and con
 ![image](https://user-images.githubusercontent.com/71575748/149643308-1938a389-29ea-454d-af01-05b27e0252eb.png)
 
 ## Summary
-The Code provided could be used to gather the number of votes on specific candidates, the number of votes coming from different, and pick out the one that has the most votes. The code could and should be modified to be able to gather the info on different formatting on the .csv files. So instead of using specific columns of data, get it from the name of the columns.
+The Code provided could be used to gather the number of votes on different candidates, the number of votes coming from different regions, and pick out the ones that have the most number of votes. The code should be modified to be able to gather the info on different formats in the .csv file. So instead of using specific columns of data, get it from the name of the columns.
